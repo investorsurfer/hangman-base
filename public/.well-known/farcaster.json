@@ -1,0 +1,17 @@
+{
+  "accountAssociation": {
+    "header": "PASTE_HEADER_FROM_WARPCAST_HERE",
+    "payload": "PASTE_PAYLOAD_FROM_WARPCAST_HERE",
+    "signature": "PASTE_SIGNATURE_FROM_WARPCAST_HERE"
+  },
+  "frame": {
+    "version": "next",
+    "name": "Hangman on Base",
+    "iconUrl": "https://YOUR-HANGMAN-URL.vercel.app/splash",
+    "splashImageUrl": "https://YOUR-HANGMAN-URL.vercel.app/splash",
+    "splashBackgroundColor": "#0a0a0a",
+    "homeUrl": "https://YOUR-HANGMAN-URL.vercel.app",
+    "primaryCategory": "games",
+    "description": "Pay to guess the word. Wrong guesses cost lives. No refunds."
+  }
+}
