@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Hangman on Base",
   description: "Pay to guess the word. Wrong guesses cost lives. No refunds.",
   other: {
-    "base:app_id": "6a147000ed0edcf2e9a87720",
+    "base:app_id": "6a15966de2595c07fbb7fdf0",
     "fc:frame": JSON.stringify({
       version: "next",
       imageUrl: `${APP_URL}/og`,
