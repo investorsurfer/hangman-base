@@ -3,7 +3,7 @@ import { base } from "viem/chains";
 
 export const GAME_FEE = parseEther("0.0000001");
 export const TREASURY_ADDRESS = "0x66911f0d4C73A9189Ed29ecAFC1514236F51dD45" as `0x${string}`;
-export const BUILDER_CODE = "0x62635f6e64383970386d790b0080218021802180218021802180218021" as `0x${string}`;
+export const BUILDER_CODE = "0x62635f6e31316b303435380b0080218021802180218021802180218021" as `0x${string}`;
 
 const BASE_CHAIN_PARAMS = {
   chainId: "0x2105",
