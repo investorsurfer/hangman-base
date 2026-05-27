@@ -77,7 +77,7 @@ export async function payToPlay(fromAddress: string): Promise<string> {
   const hash = await walletClient.sendTransaction({
     to: TREASURY_ADDRESS,
     value: GAME_FEE,
-    dataSuffix: BUILDER_CODE,
+    data: BUILDER_CODE,
   });
 
   const publicClient = createPublicClient({ chain: base, transport: http() });
